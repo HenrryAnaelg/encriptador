@@ -38,7 +38,7 @@ main{
 }
 
 .cajatexto{
-    width: 80%;
+    width: 60%;
     height: 100%;
     border: none;
     background-color: #f4f4fc;
@@ -101,8 +101,8 @@ main{
     position: relative;
     width: 400px;
     height: 600px;
-    right: 200px;
-    padding-right: 20px;
+    right: 3%;
+    padding-right: 10px;
     background-color: #ffffff;
     box-sizing: border-box;
     border-radius: 32px;
