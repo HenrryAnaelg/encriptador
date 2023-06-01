@@ -100,7 +100,7 @@ main{
     display: block;
     position: relative;
     width: 400px;
-    height: 600px;
+    height: 550px;
     right: 3%;
     padding-right: 10px;
     background-color: #ffffff;
@@ -112,7 +112,7 @@ main{
 .contenedormunieco{
     position: absolute;
     left: 10%;
-    top: 5%;
+    top: 0%;
     box-sizing: border-box;
     padding-top: 50px;
 }
@@ -120,7 +120,7 @@ main{
 .contenedor-parrafo{
     position: absolute;
     box-sizing: border-box;
-    top: 370px;
+    top: 330px;
     left: 40px;
  }
 
@@ -160,7 +160,7 @@ main{
     display: flex;
     position: absolute;
     bottom: 400px;
-    top: 450px;
+    top: 410px;
     background-color: aqua;
     padding-left: 40px;
 }
